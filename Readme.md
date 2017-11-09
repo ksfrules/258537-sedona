@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Илья Ившин](https://up.htmlacademy.ru/htmlcss/19/user/258537).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Пятецкий](https://htmlacademy.ru/profile/apiatetskyi).
 
 ---
 
